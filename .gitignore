@@ -112,3 +112,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+venvma/Scripts/pythonw.exe
+venvma/Scripts/python.exe
+venvma/Scripts/pip3.exe
+venvma/Scripts/pip3.7.exe
+venvma/Scripts/pip.exe
+venvma/Scripts/deactivate.bat
+venvma/Scripts/Activate.ps1
+venvma/Scripts/activate.bat
+venvma/Scripts/activate
+venvma/pyvenv.cfg
