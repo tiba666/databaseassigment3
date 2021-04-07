@@ -1,10 +1,10 @@
-import sys
+
 from huffman import huffman
 
 
 
 text= "beebs beepps!!!!! their eerie ears hear pears"
-
+text2 = "pete is here"
 h = huffman()
 
 result = h.compress(text)
